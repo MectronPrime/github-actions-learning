@@ -33,7 +33,7 @@ Type your level (type exactly as shown):
 
 **Branch Name:** working-beginner-MectronPrime
 
-**Submission File:** .github/submissions/[level]-[yourname].md
+**Submission File:** .github/submissions/beginner-mectronprime.md
 
 ---
 
